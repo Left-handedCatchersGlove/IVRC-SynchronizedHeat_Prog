@@ -7,6 +7,6 @@ IVRC program
 
 ofxFenster
 ------------------------
-・ビルド時、以下のファイルを objective-cpp で読み込むように定義する  
+・ビルド時、ofxFenster以下のcppファイルを objective-cpp で読み込むように定義する  
 ・Carbon-frameworks をデフォルトで読み込むようにする  
 
